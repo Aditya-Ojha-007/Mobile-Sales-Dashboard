@@ -5,7 +5,9 @@ This dashboard visualizes mobile phone sales data to help the sales team track p
 
 ## DataSet Used
 <a href="https://github.com/Aditya-Ojha-007/Mobile-Sales-Dashboard/blob/main/MOBILE%20DASHBOARD.pbit"> Dataset </a>
-Fields include: Date, TransactionID, City, Brand, MobileModel, PaymentMethod, Quantity, SalesAmount, CustomerRating
+
+## Fields include 
+Date, TransactionID, City, Brand, MobileModel, PaymentMethod, Quantity, SalesAmount, CustomerRating
 
 ## Dashboard Features
 - Summary cards: Total Sales, Transactions, Quantity, Average Price
